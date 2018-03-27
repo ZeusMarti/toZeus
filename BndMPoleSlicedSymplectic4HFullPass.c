@@ -13,7 +13,6 @@
 #define SQR(X) ((X)*(X))
 
 
-
 void bndthinkick(double* r, double* A, double* B, double L, double irho, int max_order)
 
 /*****************************************************************************
